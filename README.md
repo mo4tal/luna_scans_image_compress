@@ -13,10 +13,13 @@
 
 ## Dosyayı Çalıştırmak için Metodlar:
 
-### 1-) Dosyayı "Birlikte Aç" seçeneğinden (Windows 10 ve üstü tanımsız dosyaları çalıştırmaya çalıştığınızda zaten soruyor) "Python" seçeneğini seçin ve devam edin.
+### 1-) 
+- Dosyayı "Birlikte Aç" seçeneğinden (Windows 10 ve üstü tanımsız dosyaları çalıştırmaya çalıştığınızda zaten soruyor) "Python" seçeneğini seçin ve devam edin.
 <img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128059166402035722/image.png"/>
 
-### 2-) Main.py'nin bulunduğu klasörde boş bir alana Shift + Sağ Tık ile "Powershell Penceresini Burada Açın" seçeneğini seçin.
+
+### ⭐ 2-) (*Kesinlikle bu yöntemi tavsiye ediyorum. Diğer yöntem ile bazen düzgün çalışmadı. Bu yöntemle hiç hata almadım*)
+- Main.py'nin bulunduğu klasörde boş bir alana Shift + Sağ Tık ile "Powershell Penceresini Burada Açın" seçeneğini seçin.
 - Sonrasında şu komutu yazın ve Enter tuşuna basın: `python Main.py`
 <img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128059753063530546/image.png"/>
 <img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128059930000244836/image.png"/>
