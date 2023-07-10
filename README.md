@@ -7,6 +7,8 @@
 ### Nasıl çalıştırıyoruz?
 
 - Main.py dosyasının bulunduğu klasöre yani direk dosyanın yanına küçültülmesini istediğiniz ".jpg, .jpeg, .png" uzantılarına sahip tüm dosyalarınızı direk fırlatın.
+<img align="center" src="https://prnt.sc/wN61ilGI2mSm"/>
+<img align="center" src="https://prnt.sc/HF0FV66Y8W7m"/>
 - Ardından dosyamızı çalıştıracağız.
 
 ### Dosyayı Çalıştırmak için Metodlar:
