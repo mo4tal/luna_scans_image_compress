@@ -1,0 +1,17 @@
+Önce Python 3.11 zart zurt ismli exe dosyasını çalıştırın. Pythonu Kurun.
+Özellikle açmanız gereken yerler yok. Tam kurulum yapmak istiyorsanız aşağıdakileri yapın:
+
+1- Dosyayı aç
+2- açar açmaz en aşağıdaki "Add python.exe to PATH" seçeneğinin tiki açın.
+3- "Customize installation" basın
+4- Hepsinin açık olduğundan emin olun
+5- sol aşağıdaki "Back" butonuna basın
+6- "Install Now" butonuna basın.
+7- Bitmesini bekleyin
+8- bitince kapayın? (Sağ aşağıda "Close" var)
+
+Ardından "KESIN_LAZIM.bat" dosyasını çalıştırın.
+Bat dosyası olması korkutmasın. İsteyen içeriğine bakabilir bir şey yok.
+Sadece gerekli kütüphaneleri indiriyoruz.
+İş bitince zaten kendisi kapanır. Kapanmazsa siz kapayın.
+Sadece bittiğinden emin olun. Kod çalışmazsa, en yakın eczacıdan ya da benden yardım alabilirsiniz.
