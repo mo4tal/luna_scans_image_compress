@@ -18,5 +18,5 @@
 
 ### 2-) Main.py'nin bulunduğu klasörde boş bir alana Shift + Sağ Tık ile "Powershell Penceresini Burada Açın" seçeneğini seçin.
 - Sonrasında şu komutu yazın ve Enter tuşuna basın: `python Main.py`
-<img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128058738499133501/image.png"/>
+<img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128059753063530546/image.png"/>
 <img align="center" src="https://media.discordapp.net/attachments/1041789313777664001/1128059930000244836/image.png"/>
