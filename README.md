@@ -14,5 +14,4 @@
 - 1-) Dosyayı "Birlikte Aç" seçeneğinden (Windows 10 ve üstü tanımsız dosyaları çalıştırmaya çalıştığınızda zaten soruyor) "Python" seçeneğini seçin ve devam edin.
 
 - 2-) Main.py'nin bulunduğu klasörde boş bir alana Shift + Sağ Tık ile "Powershell Penceresini Burada Açın" seçeneğini seçin.
-- Sonrasında şu komutu yazın:
-- `python Main.py`
+- Sonrasında şu komutu yazın: `python Main.py`
