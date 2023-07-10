@@ -15,4 +15,4 @@
 
 - 2-) Main.py'nin bulunduğu klasörde boş bir alana Shift + Sağ Tık ile "Powershell Penceresini Burada Açın" seçeneğini seçin.
 - Sonrasında şu komutu yazın:
-- python Main.py
+- `python Main.py`
